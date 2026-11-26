@@ -7,6 +7,7 @@
 | 001 | 無限の物語世界 | 正式採用・画像転送待ち | assets/opening/001-story-world.webp |
 | 002 | AIの反乱 | 正式採用・画像転送待ち | assets/opening/002-ai-rebellion.webp |
 | 003 | 崩壊する物語世界 | 正式採用・画像転送待ち | assets/opening/003-story-collapse.webp |
+| 004 | 物語時空警察本部 | 正式採用・画像転送待ち | assets/backgrounds/004-headquarters.webp |
 
 背景は横長16:9、人物は正方形の顔のみ。主人公は制帽をかぶった男子の黒シルエット。全身立ち絵は制作しない。
 
@@ -15,3 +16,5 @@
 No.002 正式採用。生成ID a0afb202-f6db-4d99-939d-1245b6a01238。再生成禁止。
 
 No.003 正式採用。生成ID 8572e7f7-f60f-4a82-8bc4-a7de6946e46a。再生成禁止。
+
+No.004 正式採用。生成ID a4694280-a604-4fc5-a422-3ee2389810ec。シリーズ共通本部背景。再生成禁止。
