@@ -51,3 +51,7 @@ No.010 正式採用。生成ID 85db3bb5-245e-47a0-acd2-df51d3646873。月は障�
 | 011 | わなに かかった たぬき | 正式採用・画像転送待ち | assets/backgrounds/011-trapped-tanuki.webp |
 
 No.011 正式採用。生成ID 152c733d-a0de-45f3-a141-167c0583bfeb。AREA 03背景。たぬきの造形基準。再生成禁止。
+
+| 012 | 冬が やってきた | 正式採用・画像転送待ち | assets/backgrounds/012-winter-departure.webp |
+
+No.012 正式採用。生成ID 1a521ea1-365c-41bc-b3d4-2e0db9619a5c。AREA 04背景。きこり夫婦の服装の基準。再生成禁止。
