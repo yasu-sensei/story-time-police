@@ -122,3 +122,9 @@ No.012 正式採用。生成ID 1a521ea1-365c-41bc-b3d4-2e0db9619a5c。AREA 04背
 - 赤い発光、怒りの目と開いた口。基本造形維持。
 - 配置予定：assets/portraits/019-logic-angry.webp
 - 画像本体未登録。次はNo.020 動揺。
+
+## No.020 ロジック・動揺（正式採用）
+- 生成ID：8bbd5aa6-fe1f-40ba-bf8f-11c5a19137ad
+- 基本造形、琥珀色の発光、見開いた目と驚きの口、汗マーク。
+- 配置予定：assets/portraits/020-logic-surprised.webp
+- 画像本体未登録。次はNo.021 理解・納得。
